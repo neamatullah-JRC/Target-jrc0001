@@ -1,3 +1,3 @@
 # Target-jrc0001
 
-JRCCAR ⁰-∞
+JRCCAR 0-∞
